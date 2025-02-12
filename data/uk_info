@@ -1,0 +1,6 @@
+{"start_date": 2015-01-29,
+"end_date": 2023-12-13,
+"tickers": ['AAL.L' 'AZN.L' 'BARC.L' 'BATS.L' 'BP.L' 'CPG.L' 'CRH.L' 'DGE.L' 'EXPN.L'
+ 'FLTRF.L' 'GSK.L' 'HSBA.L' 'LLOY.L' 'LSEG.L' 'OCDO.L' 'PRU.L' 'REL.L'
+ 'RIO.L' 'TSCO.L' 'ULVR.L' 'VOD.L'],
+ "index": "FTSE100"}
